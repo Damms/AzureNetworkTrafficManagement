@@ -7,15 +7,17 @@ This project grew my infrastructure, networking and IAAC automation skills.
 ### Skills Learned
 
 - Azure
+- Task 1: Use a template to provision an infrastructure.
+- Task 2: Configure an Azure Load Balancer.
+- Task 3: Configure an Azure Application Gateway.
 
 ### Tools Used
 
 - Azure
 
 ### Prerequisites 
+
 - Azure Subscription
-
-
 
 ## Steps
 ### Step 1 -
