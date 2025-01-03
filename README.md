@@ -101,7 +101,7 @@ Demonstrate how to implement traffic management in Azure using both an Azure Loa
 
 ![image](https://github.com/user-attachments/assets/95fea46f-299a-46a8-ac55-dd861a455990)
 
-- Now that everything is working don't forget to delete the resources from Azure :) - easiest to delete the resource group used.
+**Now that everything is working don't forget to delete the resources from Azure :) - easiest to delete the resource group used.**
 
 
 
