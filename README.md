@@ -31,10 +31,13 @@ This project grew my infrastructure, networking and IAAC automation skills.
 
 ### Step 2 - Configure Azure Load Balancer
 
+![image](https://github.com/user-attachments/assets/34addb0a-dce4-4f18-8bc1-f6236ebda9ac)
+
+
     | Setting | Value |
     | --- | --- |
     | Subscription | your Azure subscription |
-    | Resource group | **az104-rg6** |
+    | Resource group | **az104-lab6** |
     | Name | `az104-lb` |
     | Region | The **same** region that you deployed the VMs |
     | SKU  | **Standard** |
@@ -70,6 +73,9 @@ Now we can navigate to the ip of the load balancer to verify it's working as exp
 
 ### Step 3 - Configure Azure Application Gateway
 
+![image](https://github.com/user-attachments/assets/33878a48-3016-49e8-aeef-d149d188776a)
+
+
 Create subnet for the application gateway
 
 ![image](https://github.com/user-attachments/assets/060fa175-63ae-497b-865c-d3507ef1f25e)
@@ -97,6 +103,15 @@ Add path based routing rules
 ![image](https://github.com/user-attachments/assets/e6d13b02-3c0c-40bf-9b27-b85205869ed5)
 
 Review and create application gateway
+
+Now go to the application gateway IP address and test that the /image and /video routing works as expected
+
+![image](https://github.com/user-attachments/assets/8d8927f9-32f1-4eaa-a2f5-02899d725d6d)
+
+![image](https://github.com/user-attachments/assets/95fea46f-299a-46a8-ac55-dd861a455990)
+
+Now that everything is working don't forget to delete the resources from Azure :) - easiest to delete the resource group used.
+
 
 
 
