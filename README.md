@@ -1,4 +1,4 @@
-# Azure Traffic Management | Hub & Spoke Network
+# Azure Traffic Management | AZ-104 Lab
 This project is following the [lab for Microsoft's AZ 104 training](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_06-Implement_Network_Traffic_Management.md)
 
 ## Objective
