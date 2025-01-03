@@ -2,18 +2,18 @@
 This project is following the [lab for Microsoft's AZ 104 training](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_06-Implement_Network_Traffic_Management.md)
 
 ## Objective
-This project grew my infrastructure, networking and IAAC automation skills.
+Demonstrate how to implement traffic management in Azure using both an Azure Load Balancer and an Azure Application Gateway. The lab covers provisioning infrastructure via ARM templates, configuring a public load balancer to distribute requests across multiple VMs (layer 4), and then deploying an application gateway for advanced, layer 7 routing. By the end, traffic is split appropriately (e.g., images vs. videos), with health probes ensuring high availability and reliable application delivery.
 
 ### Skills Learned
 
 - Azure
-- Task 1: Use a template to provision an infrastructure.
-- Task 2: Configure an Azure Load Balancer.
-- Task 3: Configure an Azure Application Gateway.
+- Use a template to provision an infrastructure.
+- Configure an Azure Load Balancer.
+- Configure an Azure Application Gateway.
 
 ### Tools Used
 
-- Azure
+- Azure Portal
 
 ### Prerequisites 
 
