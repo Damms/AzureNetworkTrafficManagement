@@ -34,17 +34,7 @@ This project grew my infrastructure, networking and IAAC automation skills.
 ![image](https://github.com/user-attachments/assets/34addb0a-dce4-4f18-8bc1-f6236ebda9ac)
 
 
-    | Setting | Value |
-    | --- | --- |
-    | Subscription | your Azure subscription |
-    | Resource group | **az104-lab6** |
-    | Name | `az104-lb` |
-    | Region | The **same** region that you deployed the VMs |
-    | SKU  | **Standard** |
-    | Type | **Public** |
-    | Tier | **Regional** |
-
-- In Azure Portal go to Load balancers and create a load balancer using the settings above
+- In Azure Portal go to Load balancers and create a load balancer using the settings below
 
 ![image](https://github.com/user-attachments/assets/708ea4fc-f3fc-441d-9c9f-c7470eff4a7f)
 
